@@ -1,0 +1,2 @@
+# voting-system-swisstronik
+HACKATHON
